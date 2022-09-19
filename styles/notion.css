@@ -74,6 +74,9 @@
   caret-color: var(--fg-color);
   font-family: inherit;
 }
+.description{
+  white-space: pre-wrap;
+}
 
 .notion > * {
   padding: 3px 0;

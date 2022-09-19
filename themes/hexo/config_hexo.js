@@ -1,6 +1,8 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['有道无术，术尚可求，有术无道，止于术。神即道，道法自然,如来!',
+    '神就是道，道就是规律，规律如来，容不得你思议，按规律办事的人就是神。',
+    '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
