@@ -46,6 +46,7 @@ module.exports = withBundleAnalyzer({
       })
     }
     return config
-  },
-  staticPageGenerationTimeout: 1000
+  }
+  // ,
+  // staticPageGenerationTimeout: 1000
 })
